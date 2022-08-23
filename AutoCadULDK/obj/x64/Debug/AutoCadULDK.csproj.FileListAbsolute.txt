@@ -1,5 +1,4 @@
 E:\Programowanie\ULDK\AutoCadULDK\obj\x64\Debug\AutoCadULDK.csproj.AssemblyReference.cache
-E:\Programowanie\ULDK\AutoCadULDK\obj\x64\Debug\AutoCadULDK.Properties.Resources.resources
 E:\Programowanie\ULDK\AutoCadULDK\obj\x64\Debug\AutoCadULDK.csproj.GenerateResource.cache
 E:\Programowanie\ULDK\AutoCadULDK\obj\x64\Debug\AutoCadULDK.csproj.CoreCompileInputs.cache
 E:\Programowanie\ULDK\AutoCadULDK\obj\x64\Debug\AutoCadULDK.FormULDK.resources
