@@ -30,6 +30,10 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+AutoCadULDK/.vs/
+AutoCadULDK/bin
+AutoCadULDK/obj
+AutoCadULDK/packages
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
