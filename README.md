@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/72301310/186404000-2fde6ac8-ae1d-4485-
 Damian Zacheja
 
 ## Licencja
-[MIT](https://github.com/DZacheja/AutoCadULDK/blob/main/LICENSE)
+[GNU General Public License v3.0](https://github.com/DZacheja/AutoCadULDK/blob/main/LICENSE)
 
 
 
