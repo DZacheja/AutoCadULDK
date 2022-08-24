@@ -10,7 +10,7 @@ Wewnątrz każdego obiektu znajduje się blok zawierający opis obiektu. Znajduj
 </p>
 W odróżnieniu od innych zastosowań oprcaowano pobieranie wszystkich działek ze wskazanego zakresu.<br>
 
-### Schemat algorytmu wygląda następująco:<br>
+### Schemat algorytmu<br>
 
 1. Zaznaczenie prostokąta:
 <p align=left>
@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/72301310/186406458-988daf46-2f57-410b-
 
 ### Pobieranie ze wskazanego zakresu
 
-Metoda polega na pobraniu wszystkich działek z zakresu jak opisano [tutaj](https://github.com/DZacheja/AutoCadULDK/edit/main/README.md#schemat-algorytmu-wygl%C4%85da-nast%C4%99puj%C4%85co).
+Metoda polega na pobraniu wszystkich działek z zakresu jak opisano [tutaj](https://github.com/DZacheja/AutoCadULDK#schemat-algorytmu).
 
 #### Prezenacja wideo pobierania z zakresu:
 
